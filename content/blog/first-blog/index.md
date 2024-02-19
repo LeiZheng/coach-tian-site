@@ -1,5 +1,5 @@
 ---
-title: Overview of Camp
+title: Overview of Camp (冰球营入门篇)
 date: "2024-02-18T22:40:32.169Z"
 description: Overview of Camp
 ---
