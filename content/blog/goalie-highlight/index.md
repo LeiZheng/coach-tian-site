@@ -5,7 +5,7 @@ description: 冰球守门员入门三板斧 (The Three Basic Skills for Ice Hock
 ---
 ** 冰上自我训练
 - *** 基础篇 
-- `video: /static/videos/goalie-highlight/goalie1.mp4`
+`youtube: NkewBcXYCJo`
 1. 左右滑跪
 2. 左右跪踢
 3. 跪踢+连续出杆
@@ -14,7 +14,7 @@ description: 冰球守门员入门三板斧 (The Three Basic Skills for Ice Hock
 6. 两点出击 与 后退滑跪
 
 - *** 实战篇
-- `video: /static/videos/goalie-highlight/goalie2.mp4`
+`youtube: yYnVgVfP5p8`
 1. 门柱侧滑
 2. 标准动作
 3. 三角滑行
@@ -30,6 +30,6 @@ description: 冰球守门员入门三板斧 (The Three Basic Skills for Ice Hock
 13. 球门前 快速出退
 
 - *** 提高篇
-- `video: /static/videos/goalie-highlight/goalie3.mp4`
+`youtube: WPsBn8jItn4`
 
 
