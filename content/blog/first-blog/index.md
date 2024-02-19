@@ -1,108 +1,44 @@
 ---
-title: First Blog
+title: Overview of Camp
 date: "2024-02-18T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Overview of Camp
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+**Warm-up (热身)：**
+1. **Gliding Five Elements (滑行五要素)：**10 minutes (10分钟)
+   [Video Link (视频链接)](https://v.douyin.com/i8q2ub69/)
+2. **Pole Skills Ten Items First Category (杆功十项第一大类)：**10-15 minutes (10-15分钟)
+   [Video Link (视频链接)](https://v.douyin.com/i8qj77Xe/)
+3. **Land Blade Outer Edge 45-Degree Angle Practice (陆地冰刀外刃45度角练习)：**5 minutes (5分钟)
+   [Video Link (视频链接)](https://v.douyin.com/i8q2WTMn/)
+4. If possible, practice puck circle hand touch ice and outer edge 45-degree angle in the morning (如果能早上冰，先做争球圈手摸冰，外刃45度角练习)。
+5. While changing equipment, explain the content, standards, requirements, and precautions of the day's on-ice training (边换装备，边讲解当天冰上训练内容、标准、要求和注意事项)。
 
-## On deer horse aboard tritely yikes and much
+**On-Ice Training (冰上训练)：**
+- **Strengthening Outer Edge 45-Degree Angle (强化外刃45度角)：**30 minutes (30分钟)
+  [Video Link (视频链接)](https://v.douyin.com/i8qjXVgb/)
+    1. Forward glide: hand touch ice, outer edge 45-degree angle ten loops, 1 round trip (正滑：手摸冰、外刃45度角十环，1来回)。
+    2. Backward glide: hand touch ice, outer edge 45-degree angle ten loops, 1 round trip (倒滑：手摸冰、外刃45度角十环，1来回)。
+    3. Outer edge 30-degree angle step down: hand touch ice, outer edge 30 degrees, end line to end line, 1 round trip (外刃30度角压步：手摸冰、外刃30度，底线到底线，1来回)。
+       [Video Link (视频链接)](https://v.douyin.com/i8q2TVb8/)
+    4. Repeat forward glide (重复正滑)。
+    5. Forward glide with left and right three-step downs: hand touch ice, outer edge 45-degree angle, 1 round trip (正滑左右三次压步：手摸冰、外刃45度角，1来回)。
+       [Video Link (视频链接)](https://v.douyin.com/i8q6u8ag/)
+    6. Forward glide with left and right three-step downs: quick feet, three step downs per second, 2 round trips (正滑左右三次压步：脚快、每秒三次压步，2来回)。
+    7. Forward glide with left and right three-step downs: with puck, quick hands, quick feet, quick eyes, 2 round trips (正滑左右三次压步：带球、手快、脚快、眼快，2来回)。
+    8. Backward glide: hand touch ice, blade 45-degree angle ten loops, 1 round trip (倒滑：手摸冰、冰刀45度角十环，1来回)。
+    9. Backward glide with left and right three-step downs: hand touch ice, outer edge 45-degree angle, 1 round trip (倒滑左右三次压步：手摸冰、外刃45度角，1来回)。
+    10. Backward glide with left and right three-step downs: quick feet, three step downs per second, 2 round trips (倒滑左右三次压步：脚快、每秒三次压步，2来回)。
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+  Intersperse with Gliding Five Elements, forward glide with ice push every three seconds, six-four gliding method (穿插滑行五要素滑行，正滑每三秒一次蹬冰，六四滑法)。
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+- **Eight Directions Quick Start (八个方位快速启动)：**15 minutes (15分钟)。
+  `youtube: https://www.youtube.com/watch?v=DiaC7cZgsvY`
+  [Video Link (视频链接)](https://v.douyin.com/i8q2Qc28/)
+    1. Wall support blade tip high leg raise (扶墙刀尖高抬腿)。
+    2. Eight directions quick start: each 1 round trip (八个方位快速启动：各1来回)。
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+  Intersperse with Gliding Five Elements, forward glide with ice push every three seconds, six-four gliding method (穿插滑行五要素滑行，正滑每三秒一次蹬冰，六四滑法)。
 
-### Overlaid the jeepers uselessly much excluding
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
-
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
-
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-### According a funnily until pre-set or arrogant well cheerful
-
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
-
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
-
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
-
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
-
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+- **Pole Skills Ten Items, Serpentine (杆功十项，蛇形)：**15-20 minutes (15分钟-20分钟)。
+  [Video Link (视频链接)](https://v.douyin.com/i8q2W6Pp/)

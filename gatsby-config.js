@@ -11,8 +11,8 @@ module.exports = {
   siteMetadata: {
     title: `The Garden of Hockey Coach Tian`,
     author: {
-      name: `Lei Zheng`,
-      summary: `who is one of normal hockey dad with 3 young hockey players.`,
+      name: `Coach Tian`,
+      summary: `The hockey Self Training System.`,
     },
     description: `The blogs demonstrating what coach tian self-train system can do.`,
     siteUrl: `https://coachtian.org/`,
@@ -38,15 +38,35 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: `gatsby-remark-images`,
+            resolve: "gatsby-remark-embed-video",
             options: {
-              maxWidth: 630,
+              width: 800,
+              ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
+              height: 400, // Optional: Overrides optional.ratio
+              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+              noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
+              loadingStrategy: 'lazy', //Optional: Enable support for lazy-load offscreen iframes. Default is disabled.
+              urlOverrides: [
+                {
+                  id: "youtube",
+                  embedURL: videoId =>
+                    `https://www.youtube-nocookie.com/embed/${videoId}`,
+                },
+              ], //Optional: Override URL of a service provider, e.g to enable youtube-nocookie support
+              containerClass: "embedVideo-container", //Optional: Custom CSS class for iframe container, for multiple classes separate them by space
+              iframeId: false, //Optional: if true, iframe's id will be set to what is provided after 'video:' (YouTube IFrame player API requires iframe id)
             },
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
+            },
+          },
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 630,
             },
           },
           `gatsby-remark-prismjs`,
@@ -117,6 +137,19 @@ module.exports = {
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
+    },
+    {
+      resolve: 'gatsby-remark-video',
+      options: {
+        width: 800,
+        height: 'auto',
+        preload: 'auto',
+        muted: true,
+        autoplay: true,
+        playsinline: true,
+        controls: true,
+        loop: true
+      }
     },
   ],
 }
