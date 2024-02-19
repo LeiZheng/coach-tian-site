@@ -42,3 +42,37 @@ description: Overview of Camp
 
 - **Pole Skills Ten Items, Serpentine (杆功十项，蛇形)：**15-20 minutes (15分钟-20分钟)。
   [Video Link (视频链接)](https://v.douyin.com/i8q2W6Pp/)
+
+
+**At the same time, I would like to brief everyone on the physical training camp, and the key issues I aim to address:**
+
+1. **Check if the Gliding Five Elements are correct (检查滑行五要素是否正确)？**
+   If there are any issues, I will resolve them in the shortest time possible (如果有问题，我要用最短的时间解决它)。
+
+2. **The 45-degree angle outer edge is something that needs to be strengthened and improved every time we get on fresh ice (45度角外刃，是每次上新冰的时候，要强化提高的)！ Because this is extremely important (因为这个太太重要了)！！！ Those who can achieve the 45-degree angle must strengthen the 30-degree angle (能完成45度角的要强化30度角)。
+
+3. **Quantitative tests for quick shooting and scoring (快速射门得分的量化测试)：**
+    - Powerful shots entering the blue line (进入蓝线的大力击射)
+    - Quick wrist shots from the top of the puck circle (争球圈上沿的快速腕射)
+    - Close distance feinting the goalkeeper for a quick shot (近距离虚晃守门员短平快)
+    - Small angle 45-degree/30-degree/remote angle shots to the top corner (小角度45度/30度/偏远角度的打上角)! Usually, this angle is abandoned by the opposing defenseman and goalkeeper (通常这个角度是被对方后卫和守门员放弃的角度)!
+    - Horizontal movement in front of the goal/left and right four scoring techniques (球门前横走/左右各四个得分技巧)
+    - High-speed tucking behind the goal with three routines (球门后高速度掖门三个套路)
+    - Star player's quick scoring routines (明星快速得分的套路)
+
+4. **Five key routines for quick feet, hands, and eyes (脚快手快眼快的五个重点套路)**
+    - Selection from 28 routines of the 33-step method (33步法28个套路当中精选)
+    - Selection from 18 routines of the mixed step method (混合步法18个套路当中精选)
+    - Selection from 18 routines each of 1/2/3 times left and right quick step downs, forward and backward as well as reverse (1/2/3次左右快速压步，向前向后以及反向/三种各18个套路当中精选)
+    - There are many kung fu routines on the "8" and puck circles (“8”字和争球圈上的功夫套路特别多)
+    - Only a selection can be made, determined by the age and skill level of the students on the field (只能做其中的精选，根据场上学员年龄大小水平高低来确定)
+
+5. **High-speed passing and receiving training (传球和接球的高速度配合训练)：**
+    - Medium-short distance two-person parallel quick passing and receiving, and quickly completing a quick shot (中近距离的两人平行快速传球接球，并且快速完成打快拍)
+    - Medium-short distance two-person cross quick passing and receiving, and quickly completing a quick shot (中近距离的两人交叉快速传球接球，并且快速完成打快拍)
+    - Medium-short distance two-person quick receiving/then immediate turning/and quick passing/while completing a quick shot (中近距离的两人快速接球/后立即转身/并且快速传球/同时完成打快拍)
+    - Forehand and backhand floating passes (正反手的飘传)
+    - Long-distance lateral and diagonal passing and receiving (远距离的横向和斜向/传球接球)！
+
+6. **Eight directions quick start (八个方位快速启动)**
+   Five-on-five full-court games/check for deficiencies in basic ice hockey skills and ice hockey awareness (五对五的全场比赛/检查冰球基本功情况和冰球意识方面的缺失)？！
