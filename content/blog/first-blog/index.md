@@ -7,29 +7,25 @@ description: The Essential Handbook for Ice Hockey Parents and Kids Attending Co
 ## ** First Look before camp (营前必读)**
 **For parents and children attending the physical training camp, please note (参加实体训练营的家长和孩子们请注意)：**
 
-1. **Each person must bring two hockey sticks, 
-   1. one for on-ice and one for off-ice use (每人务必带两根球杆，冰上和陆地分开)； 
-   2. bring both sticks onto the ice, and place the spare one in the Box (上冰的时候把两根球杆都带上，多余的那个球杆放在Box里边)**, I will use these sticks as imaginary enemy obstacles on the ice (我会使用这些球杆在冰上做假想敌障碍物). 
-   3. There will also be actions such as floating pucks and jumping (还有一些飘球跳跃等动作). 
-   4. After getting off the ice, immediately do 500 air shots off-ice using the off-ice stick (下冰之后，立即在场外做500次空射门，使用陆地球杆).
-   5. After each ice session, do 300 jumps while wearing skates and protective gear (每次下冰之后，做300次跳跃，穿冰刀和护具), and 100 sliding jumps, 100 each for left and right single-leg jumps (100次滑跳，每条腿各100次单刀左右跳); 
-   6. these exercises are very important to do after every ice session (每次下冰之后都做这些内容，非常重要), 
-   7. and then take off the protective gear to work on stickhandling or physical fitness (然后再脱掉护具，做杆上的功夫或者体能).
+1. **Each person must bring two hockey sticks:**
+    - One for on-ice and one for off-ice use (每人务必带两根球杆，冰上和陆地分开).
+    - Bring both sticks onto the ice and place the spare one in the Box (上冰的时候把两根球杆都带上，多余的那个球杆放在Box里边). These will be used as imaginary enemy obstacles on the ice (我会使用这些球杆在冰上做假想敌障碍物).
+    - Perform actions such as floating pucks and jumping (还有一些飘球跳跃等动作).
+    - After getting off the ice, immediately do 500 air shots off-ice using the off-ice stick (下冰之后，立即在场外做500次空射门，使用陆地球杆).
+    - Do 300 jumps while wearing skates and protective gear after each ice session (每次下冰之后，做300次跳跃，穿冰刀和护具), and 100 sliding jumps, 100 each for left and right single-leg jumps (100次滑跳，每条腿各100次单刀左右跳). These exercises are essential after every ice session (每次下冰之后都做这些内容，非常重要).
+    - Afterwards, remove the protective gear to work on stickhandling or physical fitness (然后再脱掉护具，做杆上的功夫或者体能).
 
-2. **Don't forget to bring a smooth 'green biscuit,' 
-   1. preferably not the shooting type (千万别忘记带光滑的“绿饼干”，最好不是射门那种)**, because our off-ice training does not have a very good surface, and the smooth green biscuit is quite useful (因为我们的陆地训练不具备很好的地面，这种光滑的绿饼干就比较好用)! 
-   2. If you forget to bring it, you will have a hard time, as others practice stickhandling, you will have to do physical training (如果忘记带了，那么你就辛苦了，别人练杆上功夫，你就得练体能), 
-   3. what if you don't have one right now? Borrow from each other (如果眼下没有怎么办？互相借一下). 
-   4. **This is a must-have (这个一定要有)!**
+2. **Don't forget to bring a smooth 'green biscuit':**
+    - Preferably not the shooting type (千万别忘记带光滑的“绿饼干”，最好不是射门那种). It's quite useful for off-ice training which often lacks good surfaces (因为我们的陆地训练不具备很好的地面，这种光滑的绿饼干就比较好用).
+    - If forgotten, you'll have to focus on physical training while others practice stickhandling (如果忘记带了，那么你就辛苦了，别人练杆上功夫，你就得练体能).
+    - If you don't have one, borrow from each other (如果眼下没有怎么办？互相借一下). It's a must-have (这个一定要有)!
 
-3. **Bring several sets of spare underwear, because you will sweat a lot during each training session (多带几套更换的内衣，因为每次训练都要出很多汗)**,
-   1. and it is easy to catch a cold in the winter (大冬天的很容易感冒)!
+3. **Bring several sets of spare underwear:**
+    - You will sweat a lot during each training session, and it's easy to catch a cold in the winter (多带几套更换的内衣，因为每次训练都要出很多汗，大冬天的很容易感冒).
 
-4. **During lunch, check the children's eating habits (中午吃饭的时候要检查孩子们的饮食状况)**, 
-   1. and for those who are picky or have poor appetite, sit with me (对于那些偏食厌食的孩子，跟我坐在一起)! 
-   2. Parents, bring the food that your child usually dislikes the most, such as certain vegetables or meats, and I will watch them eat (家长把孩子平时最不喜欢吃的，比如某种蔬菜或者肉类，带过来，我看着他们吃)! 
-   3. Diet is very important (饮食非常重要)！！！
-
+4. **During lunch, check the children's eating habits:**
+    - Sit with me if your child is picky or has a poor appetite (对于那些偏食厌食的孩子，跟我坐在一起).
+    - Parents should bring the food that their child usually dislikes, like certain vegetables or meats, and I will watch them eat (家长把孩子平时最不喜欢吃的，比如某种蔬菜或者肉类，带过来，我看着他们吃). Diet is very important (饮食非常重要)!!!
 
 ## Detailed Explanation of Basic Movements (基础动作详解)
 
